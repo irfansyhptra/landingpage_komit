@@ -27,10 +27,10 @@ const APP_URL = process.env.NEXT_PUBLIC_APP_URL ?? '#atas';
 const APK_URL =
   process.env.NEXT_PUBLIC_APK_URL ?? '/downloads/KOMIT-v1.0.0.apk';
 const APK_VERSION = process.env.NEXT_PUBLIC_APK_VERSION ?? '1.0.0';
-const APK_SIZE = process.env.NEXT_PUBLIC_APK_SIZE ?? '71,6 MB';
+const APK_SIZE = process.env.NEXT_PUBLIC_APK_SIZE ?? '72,2 MB';
 const APK_SHA256 =
   process.env.NEXT_PUBLIC_APK_SHA256 ??
-  'ff42825a6c3c0953959c3e9cade6cb89ec4746057b9048f4af552b24d0572ad3';
+  '92ec68816a5cb684da19ec4cf3349eb9871305b6233fedc1b141a0f9908d8d62';
 
 const capabilities: {
   icon: LucideIcon;
